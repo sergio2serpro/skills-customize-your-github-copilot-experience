@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-with-pytest",
+      "title": "Testes Automatizados com pytest",
+      "description": "Escrever testes automatizados com pytest para funções simples em Python",
+      "path": "assignments/testing-with-pytest",
+      "dueDate": "2026-08-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
